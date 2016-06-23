@@ -1,9 +1,11 @@
 # Donnees-DataLicense-BBG-resume
 
 Fichier qui contient toutes les statistiques faites jusqu'à maintenant sur le fichier de bloomberg << CRUDEOIL_2016_2_12 >>, le résumé de ce qui a été discuté le matin du 23/06/2016 et nos nouveaux objectifs. 
-Vous pouvez trouver ci-joint 4 documents avec les données qui ont  été trouvées : 
+Vous pouvez trouver ci-joint 5 documents avec les données qui ont  été trouvées : 
 
  	* « Table_Results.csv » : contient le ratio des Mnemos qui sont définis pour chaque classe d’instrument (Call, Call ELEC, Put, Put ELEC)
+ 	
+ 	* « donnees_bloomberg » : descriptif des Mnemos obtenus à partir de la plateforme bloomberg
  	
  	* « pyplot_histogram » : Histogramme du ratio des Mnemos définis pour chaque Instrument
  	
